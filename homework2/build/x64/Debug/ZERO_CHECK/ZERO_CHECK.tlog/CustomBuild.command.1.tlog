@@ -1,0 +1,10 @@
+^C:\C++PROJECTS\HOMEWORK2\BUILD\CMAKEFILES\197A6C4AB1371E17772FC0919CBB1145\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/C++Projects/homework2 -BC:/C++Projects/homework2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/C++Projects/homework2/build/01.hello_world.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
