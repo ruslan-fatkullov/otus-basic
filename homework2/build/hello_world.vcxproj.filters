@@ -1,27 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\C++Projects\homework2\hello_world.cpp">
+    <ClCompile Include="C:\C++Projects\otus-basic\homework2\hello_world.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\C++Projects\homework2\example.cpp">
+    <ClCompile Include="C:\C++Projects\otus-basic\homework2\example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\C++Projects\otus-basic\homework2\move_me_out.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\C++Projects\homework2\example.h">
+    <ClInclude Include="C:\C++Projects\otus-basic\homework2\example.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\C++Projects\otus-basic\homework2\move_me_out.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\C++Projects\homework2\CMakeLists.txt" />
+    <CustomBuild Include="C:\C++Projects\otus-basic\homework2\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{A25DD66F-97D3-3264-A175-D0D28A7630DC}</UniqueIdentifier>
+      <UniqueIdentifier>{FB36BC74-1D83-3192-855E-F61842653CEB}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{6131832B-883D-3B2B-9B52-3F7477063F12}</UniqueIdentifier>
+      <UniqueIdentifier>{E662AB06-0280-32BA-9480-9F079AC1B35D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

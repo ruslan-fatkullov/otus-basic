@@ -1,9 +1,9 @@
 # CMake generation dependency list for this directory.
-C:/C++Projects/homework2/CMakeLists.txt
-C:/C++Projects/homework2/build/CMakeFiles/3.30.5/CMakeCCompiler.cmake
-C:/C++Projects/homework2/build/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake
-C:/C++Projects/homework2/build/CMakeFiles/3.30.5/CMakeRCCompiler.cmake
-C:/C++Projects/homework2/build/CMakeFiles/3.30.5/CMakeSystem.cmake
+C:/C++Projects/otus-basic/homework2/CMakeLists.txt
+C:/C++Projects/otus-basic/homework2/build/CMakeFiles/3.30.5/CMakeCCompiler.cmake
+C:/C++Projects/otus-basic/homework2/build/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake
+C:/C++Projects/otus-basic/homework2/build/CMakeFiles/3.30.5/CMakeRCCompiler.cmake
+C:/C++Projects/otus-basic/homework2/build/CMakeFiles/3.30.5/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c
 C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCInformation.cmake
